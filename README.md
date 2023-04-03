@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Python, FastApi, Flask applications.
 - 🌱 I’m currently learning JVM Based languages (Scala, Kotlin)
-- 💬 Ask me about Python, Pandas
+- 💬 Ask me about Python, Docker, K8s
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an avid trekker. 
 
